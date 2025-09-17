@@ -19,5 +19,4 @@ CMD [ "python3", "-m" , "flask", "run", "--host=0.0.0.0"]
 
 
 
-  git config --global user.email "nataliaflorezz7282@gmail.com"
-  git config --global user.name "Nataliafg7"
+
